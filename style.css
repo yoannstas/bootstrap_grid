@@ -1,0 +1,65 @@
+body {
+    background-color: #a0cfd0;
+    padding: 30px;
+}
+
+.card:hover {
+    -webkit-box-shadow: -1px 9px 40px -12px rgba(0, 0, 0, 0.64);
+}
+
+.card-title {
+    color: #1f6668;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.card-text {
+    color: gray;
+    font-family: "Droid Sans";
+}
+
+.fa-smile-beam {
+    color: rgba(255, 31, 102, 0.41);
+}
+.fa-grin-hearts{
+    color: #FF1F6668;
+}
+.fa-grin-tongue-wink {
+    color: #FF1F6668;
+}
+.fa-angry {
+    color: #FF1F6668;
+}
+.fa-sad-tear {
+    color: #FF1F6668;
+}
+.fa-meh-blank {
+    color: #FF1F6668;
+}
+.fa-grimace {
+    color: #FF1F6668;
+}
+.fa-grin-stars {
+    color: #FF1F6668;
+
+}
+
+.btn-light {
+    color:#1f6668;
+    background-color: #ffffff;
+    border-color: white;
+    border-radius: 50px;
+    font-family: 'Josefin Sans', sans-serif;;
+
+}
+
+.btn-light:hover {
+    color: #ffffff;
+    border-color: white;
+    background-color: #FF1F6668;
+    border-radius: 50px;
+    font-family: 'Josefin Sans', sans-serif;;
+}
+
+.tooltip:hover {
+    background-color: #1f6668;
+}
